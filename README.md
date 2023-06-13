@@ -1,10 +1,5 @@
 ## Hi there 👋, my name is manrick Lazarus. Currently, I am a graduate student in TADS from the Federal Institute of Rio Grande do Norte (IFRN).
 
-
-![Manrick GitHub stats](https://github-readme-stats.vercel.app/api?username=Manrick-Lazaro&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manrick-Lazaro&layout=compact&theme=dark)
-
-
 ### Technologies
 
 <div style='display: inline-block'>
