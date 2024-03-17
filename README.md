@@ -18,10 +18,10 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img width="30em" alt="React"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img width="30em" alt="Express" style="background: #FFF"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />                     
+ <img width="30em" alt="Express"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />                  
  <img width="30em" alt="html"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />       
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />       
  <img width="30em" alt="css"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />                  
  <img width="30em" alt="Csharp"
