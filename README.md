@@ -12,20 +12,30 @@
 ### Tecnologias
 
 <div style='display: inline-block'>
-  <img width="30em" alt="html"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
- <img width="30em" alt="css"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />                 
  <img width="30em" alt="javascript"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img width="30em" alt="Csharp"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+
  <img width="30em" alt="TypeScript"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- <img width="30em" alt="Python"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+
  <img width="30em" alt="React"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img width="30em" alt="React"
+
+ <img width="30em" alt="Express"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />      
+          
+ <img width="30em" alt="html"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+       
+ <img width="30em" alt="css"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />                 
+ 
+ <img width="30em" alt="Csharp"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+ 
+ <img width="30em" alt="Python"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+ 
+ <img width="30em" alt="Django"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div
